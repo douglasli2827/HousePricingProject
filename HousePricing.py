@@ -18,7 +18,7 @@ from scipy.stats import norm
 
 '''Read the csv file
 '''
-df = pd.read_csv('/Users/yikangli/Desktop/python code/train.csv')
+df = pd.read_csv('train.csv')
 
 '''see what the variables are
 '''
